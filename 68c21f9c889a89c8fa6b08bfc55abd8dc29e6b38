@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "OsFIsVJw",
+        "filename": "org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Divide.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-21T15:42:10Z",
+      "side": 1,
+      "message": "Division by zero not handled.",
+      "revId": "68c21f9c889a89c8fa6b08bfc55abd8dc29e6b38",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
