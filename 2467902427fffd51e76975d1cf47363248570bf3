@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3d7b8161_6221b6a8",
+        "filename": "org.eclipse.example.calc/src/org/eclipse/example/calc/internal/Calculator.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1012772
+      },
+      "writtenOn": "2013-06-11T10:45:24Z",
+      "side": 1,
+      "message": "The change is good.",
+      "revId": "2467902427fffd51e76975d1cf47363248570bf3",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
