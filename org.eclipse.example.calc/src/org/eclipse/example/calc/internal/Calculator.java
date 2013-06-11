@@ -39,9 +39,8 @@ public class Calculator {
 		new Equals();
 		new Minus();
 		new Plus();
-		new Square();
 		new Divide();
-		new Multiply();
+		new Square();
 	}
 
 	private void calculate(String cmdName) {
