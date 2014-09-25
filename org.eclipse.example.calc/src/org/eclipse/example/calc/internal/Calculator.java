@@ -110,4 +110,8 @@ public class Calculator {
 	public void setClearText(boolean clearText) {
 		this.clearText = clearText;
 	}
+	
+	public void emptyMethod() {
+		System.out.println("This is not empty method :-)");
+	}
 }
